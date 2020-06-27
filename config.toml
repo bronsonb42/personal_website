@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Blake Bronson-Bartlett"
+theme = "anubis"
