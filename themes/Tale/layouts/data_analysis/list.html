@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+<main>
+
+	<div class="catalogue">
+    <h1>{{ .Page.Title }}</h1>
+
+
+
+		{{ range first 50 .Pages }}
+			{{ .Render "summary" }}
+		{{ end }}
+	</div>
+
+
+
+
+</main>
+
+{{ end }}

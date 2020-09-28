@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Translations on Blake Bronson-Bartlett</title>
+    <link>http://example.org/translations/</link>
+    <description>Recent content in Translations on Blake Bronson-Bartlett</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/translations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Translations</title>
+      <link>http://example.org/translations/translations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/translations/translations/</guid>
+      <description>Morisseau-Leroy, Félix. Antigòn (excerpt). With Robert Fernandez. Intranslation (http://intranslation.brooklynrail.org/haitian-creole/antigon) (September 2017).
+Mallarmé, Stéphane. Azure: Poems and Selections from the “Livre.” With Robert Fernandez (Middletown, CT: Wesleyan University Press, 2015). Reviews: Alex Ross for The New Yorker (April 11, 2016); Jerome Keeler for The Volta Blog (June 20, 2016).</description>
+    </item>
+    
+  </channel>
+</rss>

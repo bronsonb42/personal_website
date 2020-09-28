@@ -1,0 +1,24 @@
+		<nav class="nav">
+			<div class="nav-container">
+				<a href="{{ "/" | relURL }}">
+					<h2 class="nav-title">{{ .Site.Title }}</h2>
+				</a><hr/>
+				<!--Blake added this.-->
+				<div style="margin-left:20em; padding-bottom:2em;" class="nav-container">
+
+				{{ $related := .Site.Sections.Related . | first 5 }}
+        {{ with $related }}
+
+<ul style="width: 70em;">
+          {{ range . }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        </ul>
+        {{ end }}
+				</div>
+				<!--end of Blake's addition.-->
+
+
+				{{ partial "header-menu.html" . }}
+			</div>
+		</nav>

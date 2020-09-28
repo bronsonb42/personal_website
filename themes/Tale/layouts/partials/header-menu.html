@@ -1,0 +1,13 @@
+<ul>
+  {{ $currentPage := . }}
+  {{ range .Site.Menus.main }}
+        <li>
+            <a href="{{ .URL }}">
+                {{ .Pre }}
+                <span>{{ .Name }}</span>
+                {{ .Post }}
+            </a>
+        </li>
+        <!--{{ .Render "taxonomy"}}-->
+    {{ end }}
+</ul>
