@@ -6,7 +6,7 @@
 				<!--Blake added this.-->
 				<div style="margin-left:20em; padding-bottom:2em;" class="nav-container">
 
-				{{ $related := .Site.Sections.Related . | first 5 }}
+				{{ $related := .Site.Pages.Related . | first 5 }}
         {{ with $related }}
 
 <ul style="width: 70em;">

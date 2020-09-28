@@ -1,10 +1,12 @@
 ---
 
-title: Scholarship
+title: Translations
 author: Blake Bronson-Bartlett
-description: List of publications in academic journals and conference appearances
+description: List of published and unpublished translations
 categories: ["published", "unpublished", "writings"]
 tags: ["published", "unpublished", "writings"]
-weight: 1
+weight: 4
 
 ---
+
+{{< readFile file="/html/translations.html" >}}
