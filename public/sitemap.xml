@@ -3,31 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/scholarship/publications/</loc>
+    <loc>http://example.org/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/scholarship/</loc>
+    <loc>http://example.org/publications/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/scholarship/conference_presentations/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/digital_projects/</loc>
+    <loc>http://example.org/conference_presentations/</loc>
   </url>
   
   <url>
     <loc>http://example.org/translations/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/teaching/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
   </url>
   
   <url>
@@ -44,14 +32,6 @@
   
   <url>
     <loc>http://example.org/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/teaching/teaching/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/translations/translations/</loc>
   </url>
   
   <url>
