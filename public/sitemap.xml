@@ -19,7 +19,15 @@
   </url>
   
   <url>
+    <loc>http://example.org/teaching/</loc>
+  </url>
+  
+  <url>
     <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/digital_projects/</loc>
   </url>
   
   <url>

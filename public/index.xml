@@ -43,5 +43,23 @@
       <description>Translations Morisseau-Leroy, Félix. Antigòn (excerpt). With Robert Fernandez. Intranslation. September 2017. Online. Stingelin, Martin. &amp;ldquo;&amp;lsquo;Writing&amp;rsquo;: An Introduction.&amp;rdquo; In &amp;ldquo;I am disgusted with this century of scribblers&amp;rdquo;: Writing Scenes in the Age of Manuscript&amp;rdquo; [“‘Schreiben’: Einleitung.” In “Mir ekelt vor diesem tintenklecksenden Säkulum’: Schreibszenen im Zeitalter der Manuskripte]. Ed. Martin Stingelin. Munich: Wilhelm Fink. 7-21. PDF Mallarmé, Stéphane. Azure: Poems and Selections from the “Livre.” With Robert Fernandez. Middletown, CT: Wesleyan University Press, 2015.</description>
     </item>
     
+    <item>
+      <title>Teaching</title>
+      <link>http://example.org/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/teaching/</guid>
+      <description>Teaching Visiting Assistant Professor, University of Iowa, Iowa City, IA, 2016-2019. Breaking Form/Making Books: Literary Experimentation in the US after 1800, University of Iowa, Iowa City, IA, Visiting Assistant Professor, 2019, 1 section. This course consisted of three five-week units based on the study of single authors who were considered innovators in their own time: Walt Whitman, Langston Hughes, and Ronald Johnson. Each unit began with a session working with rare editions of the authors’ works in the university’s special collections.</description>
+    </item>
+    
+    <item>
+      <title>Digital Projects</title>
+      <link>http://example.org/digital_projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/digital_projects/</guid>
+      <description>Digital Projects “Mabbot Poe: A Digital Resource for the Study of Edgar Allan Poe and the Editing of his Collected Writings by Thomas Ollive Mabbott,” Digital Scholarship &amp;amp; Publishing Studio, The University of Iowa (http://mabbottpoe.lib.uiowa.edu/)</description>
+    </item>
+    
   </channel>
 </rss>
