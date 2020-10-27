@@ -2,16 +2,16 @@
 
 title: Teaching
 author: Blake Bronson-Bartlett
-description: College-level courses designed and taught since 2010
+description: College-level courses designed and taught
 categories: ["published", "unpublished", "writings"]
 tags: ["published", "unpublished", "writings"]
-weight: 4
+weight:
 
 ---
 
 # Teaching
 
-## Visiting Assistant Professor, University of Iowa, Iowa City, IA, 2016-2019.
+## Visiting Assistant Professor, University of Iowa, 2016-19
 
 Breaking Form/Making Books: Literary Experimentation in the US after 1800, University of Iowa, Iowa City, IA, Visiting Assistant Professor, 2019, 1 section. This course consisted of three five-week units based on the study of single authors who were considered innovators in their own time: Walt Whitman, Langston Hughes, and Ronald Johnson. Each unit began with a session working with rare editions of the authors’ works in the university’s special collections. Student projects were based on the study of these archived materials.
 
@@ -29,7 +29,7 @@ Science Fiction: Dystopias, University of Iowa, Iowa City, IA, Visiting Assistan
 
 Reading and Writing about the Novel, University of Iowa, Iowa City, IA, Visiting Assistant Professor, 2016, 1 section. This first-year course for English majors introduces students to the study of the novel in history and theory. Emphasis is placed on methods of interpretation and the composition of literary critical essays. In-class thesis writing and draft workshops allow students to develop their writing skills.
 
-## Post-doctoral Guest Lecturer, Technische Universität Dortmund, Germany, 2014-2016.
+## Post-doctoral Guest Lecturer, Technical University of Dortmund, 2014-16
 
 Early American Oratory: Free Speech and Self Possession, Technische Universität Dortmund, Germany, Instructor, 2016, 1 section. This course provides a foundation for readings in colonial American literature by tracing a historical narrative of the exercise of public speech from the Puritan sermons of the late seventeenth century through the abolitionist, feminist, and Transcendentalist lectures of the antebellum decades.
 
@@ -39,7 +39,7 @@ The Public Works: Writing and the American City, Technische Universität Dortmun
 
 Documentary Poetics: Theories and Practices from Whitman to Goldsmith, Technische Universität Dortmund, Germany, Instructor, 2014/2015, 2 sections. In this course on literature from the late nineteenth through the twenty-first century, students develop research projects based on texts that attempts to affect immediate contact with a historical event and that respond to new media of their period, such as photography and sound recording.
 
-## Graduate Teaching Assistant, University of Iowa, Iowa City, IA, 2010-2013.
+## Teaching Assistant, University of Iowa, 2010-17
 
 The Interpretation of Literature, University of Iowa, Iowa City, IA, Instructor, 2010-2013; 2017, 8 sections. Readings assigned for this survey course span the English literary tradition from Shakespeare to contemporary authors. It is the required English literature course for all undergraduates in the College of Arts and Sciences. Students write two essays and participate in group research projects using digital resources and archives.
 

@@ -11,7 +11,9 @@ weight: 1
 
 <!-- {{< readFile file="/html/published_essays.html" >}} -->
 
-## Published Articles
+# Publications
+
+## Peer-reviewed Academic Articles
 
 “Writing with Pencils in the Antebellum U.S.: Language, Instrument, Gesture.” American Literature 92.2 (June 2020). https://doi.org/10.1215/00029831-8267708
 
