@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/conference_presentations/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/digital_projects/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/published/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/published/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/teaching/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/translations/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/unpublished/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/unpublished/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/writings/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/writings/</loc>
+  </url>
+  
+</urlset>
