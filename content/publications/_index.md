@@ -1,6 +1,6 @@
 ---
 
-title: Digital Projects
+title: Publications
 author: Blake Bronson-Bartlett
 description: Collaborative and independent work on digital archives and text editing
 categories: ["published", "unpublished", "writings"]
