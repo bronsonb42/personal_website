@@ -50,7 +50,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/digital_projects/</guid>
-      <description>Digital projects “Mabbot Poe: A Digital Resource for the Study of Edgar Allan Poe and the Editing of his Collected Writings by Thomas Ollive Mabbott,” Digital Scholarship &amp;amp; Publishing Studio, The University of Iowa (http://mabbottpoe.org/)</description>
+      <description>Digital Projects “Mabbot Poe: A Digital Resource for the Study of Edgar Allan Poe and the Editing of his Collected Writings by Thomas Ollive Mabbott,” Digital Scholarship &amp;amp; Publishing Studio, The University of Iowa (http://mabbottpoe.lib.uiowa.edu/)</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://example.org/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/</guid>
+      <description>Published Essays  “Writing with Pencils in the Antebellum U.S.: Language, Instrument, Gesture.” American Literature 92.2 (June 2020). “On Digitizing the ‘Thomas Ollive Mabbott Papers’: ‘Source-Research,’ Text Editing, and Media History.” Poe Studies 51 (2019). “From Loose Leaves to Readymades: Manuscript Books in the Age of Emerson and Whitman.” J19 6.2 (2018). “The Journal Box: Thoreau, Archival Media, and the Limits of Nature Writing.” ESQ 63.3 (2017). “Whitman and Mathematics: An Introduction.</description>
+    </item>
+    
+    <item>
+      <title>Digital Projects</title>
+      <link>http://example.org/digital_projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/digital_projects/</guid>
+      <description>  Mabbot Poe: A Digital Resource for the Study of Edgar Allan Poe and the Editing of his Collected Writings by Thomas Ollive Mabbott. With the generous support of the Digital Scholarship &amp; Publishing Studio, The University of Iowa.   </description>
     </item>
     
     <item>
@@ -70,6 +88,24 @@ Mallarmé, Stéphane. Azure: Poems and Selections from the “Livre.” With Rob
       
       <guid>http://example.org/teaching/</guid>
       <description>Teaching Visiting Assistant Professor, University of Iowa, Iowa City, IA, 2016-2019. Breaking Form/Making Books: Literary Experimentation in the US after 1800, University of Iowa, Iowa City, IA, Visiting Assistant Professor, 2019, 1 section. This course consisted of three five-week units based on the study of single authors who were considered innovators in their own time: Walt Whitman, Langston Hughes, and Ronald Johnson. Each unit began with a session working with rare editions of the authors’ works in the university’s special collections.</description>
+    </item>
+    
+    <item>
+      <title>Translations</title>
+      <link>http://example.org/translations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/translations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://example.org/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/teaching/</guid>
+      <description></description>
     </item>
     
     <item>
