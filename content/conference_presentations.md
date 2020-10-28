@@ -5,7 +5,7 @@ author: Blake Bronson-Bartlett
 description: Participation in and organization of panels at academic conferences
 categories: ["published", "unpublished", "writings"]
 tags: ["published", "unpublished", "writings"]
-weight: 2
+weight: 
 
 ---
 
