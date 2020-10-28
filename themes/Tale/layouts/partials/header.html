@@ -1,27 +1,34 @@
-		<nav class="nav">
-			<div class="nav-container">
-				<a href="{{ "/" | relURL }}">
-					<h2 class="nav-title">{{ .Site.Title }}</h2>
-				</a><br>
-				<!-- Blake moved from here to end of ul out of nav-container below-->
-				{{ $related := .Site.Sections.Related . | first 5 }}
-        {{ with $related }}
+<nav class="nav">
+	<div class="nav-container">
+		<a href="{{ "/" | relURL }}">
+			<h2 class="nav-title">{{ .Site.Title }}</h2>
+		</a><hr/>
+		<!--Blake added this.-->
+		<div style="margin-left:20em; padding-bottom:2em;" class="nav-container">
+
+		{{ $related := .Site.Pages.Related . | first 5 }}
+
+		<br>
+		<!-- Blake moved from here to end of ul out of nav-container below-->
+		{{ $related := .Site.Sections.Related . | first 5 }}
+
+		{{ with $related }}
 
 <ul style="width: 70em; text-align:right;">
-          {{ range . }}
-          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-          {{ end }}
-        </ul>
-        {{ end }}
+			{{ range . }}
+			<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+			{{ end }}
+		</ul>
+		{{ end }}
 
-				<!--
-				<div style="margin-left:20em; padding-bottom:2em;" class="nav-container">
-
-
-				</div>
-				-->
+		<!--
+		<div style="margin-left:20em; padding-bottom:2em;" class="nav-container">
 
 
-				{{ partial "header-menu.html" . }}
-			</div>
-		</nav>
+		</div>
+		-->
+
+
+		{{ partial "header-menu.html" . }}
+	</div>
+</nav>
