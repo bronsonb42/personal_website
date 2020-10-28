@@ -1,6 +1,6 @@
 ---
 
-title: Conference Presentations
+title: Conferences
 author: Blake Bronson-Bartlett
 description: Participation in and organization of panels at academic conferences
 categories: ["published", "unpublished", "writings"]
@@ -9,7 +9,9 @@ weight: 2
 
 ---
 
-## Conference Presentations
+# Conferences
+
+## Delivered Papers
 
 “Graphite’s Dirty Truth: The Pencil in Whitman’s New York Poetry.” International Whitman Week 2019, Walt Whitman & New York Symposium, The Grolier Club, June 1, 2019.
 

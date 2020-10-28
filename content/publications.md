@@ -2,9 +2,11 @@
 
 title: Publications
 author: Blake Bronson-Bartlett
-description: 
+description:
 categories: ["published", "unpublished", "writings"]
 tags: ["published", "unpublished", "writings"]
 weight:
 
 ---
+
+# Publications
