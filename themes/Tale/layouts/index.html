@@ -16,7 +16,7 @@
 		</a>
 		<p>“Three Thousand Years Among the Microbes” was written at Dublin, New Hampshire, between 20 May and 23 June 1905. During that time Mark Twain worked rapidly and exuberantly. On 11 June he wrote to his daughter Clara that he had reached page 240 of the manuscript and exulted, “It beats the record (—oh, all to smash!).”</p>-->
 
-	<!--<div class="catalogue">
+	<div class="catalogue">
 
 
 		{{ range (.Paginate .Site.Sections).Pages }}
@@ -25,7 +25,7 @@
 		{{ end }}
 	</div>
 
-	<div class="pagination">
+	<!--<div class="pagination">
 		{{ if .Paginator.HasPrev }}
 			<a href="{{ .Paginator.Prev.URL }}" class="left arrow">&#8592;</a>
 		{{ end }}

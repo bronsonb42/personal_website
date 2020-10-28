@@ -1,6 +1,6 @@
 ---
 
-title: Blake Bronson-Bartlett
+title: Home
 author: Blake Bronson-Bartlett
 description: personal website
 categories: ["published", "unpublished", "writings"]
