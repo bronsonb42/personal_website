@@ -5,13 +5,19 @@ author: Blake Bronson-Bartlett
 description: Participation in and organization of panels at academic conferences
 categories: ["published", "unpublished", "writings"]
 tags: ["published", "unpublished", "writings"]
-weight: 
+weight:
 
 ---
 
 # Conferences
 
+## Talks
+
+"The Pencil's Progress: A Defense of Messy Handwriting." Day at Dumbarton (The National Society of the Colonial Dames of America/Dumbarton House, Washington, D.C.), Virtual, April 28, 2022. 
+
 ## Delivered Papers
+
+"The Wild Traces of Calaveras County in Notebook IV." The 8th Annual Quarry Farm Symposium: Mark Twain and the West, Elmira, NY, October 1-3, 2020.
 
 “Graphite’s Dirty Truth: The Pencil in Whitman’s New York Poetry.” International Whitman Week 2019, Walt Whitman & New York Symposium, The Grolier Club, June 1, 2019.
 

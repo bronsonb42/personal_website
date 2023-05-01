@@ -11,4 +11,4 @@ weight:
 
 # Digital Projects
 
-“Mabbott Poe: A Digital Resource for the Study of Edgar Allan Poe and the Editing of his Collected Writings by Thomas Ollive Mabbott,” Digital Scholarship & Publishing Studio, The University of Iowa (http://mabbottpoe.lib.uiowa.edu/)
+{{< rawhtml >}}"<a style="color:black;" target="blank" href="https://mabbottpoe.org/">Mabbott Poe: A Digital Resource for the Study of Edgar Allan Poe and the Editing of his Collected Writings by Thomas Ollive Mabbott.</a>"{{< /rawhtml >}}
